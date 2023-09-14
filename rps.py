@@ -111,6 +111,7 @@ class PS(object):
 
         # self.N = ???
 
+
         #############################################
 
         if self.background_ind is not None:

@@ -25,6 +25,11 @@ You might need the following Python packages installed:
 - [ ] run `python demo.py` and check the mean angular error value
 - [ ] Send the value of mean angular error to [guoheng.bupt@gmail.com](guoheng.bupt@gmail.com)
 
+PS: Key solution is the least square in Page 14 of the tutorial PDF. If your code is correct, you will get a figure like this:
+<p align="center">
+<img src="./data/est_normal.png" width="256">
+</p>
+
 ### Task B: Git and GitHub
 - [ ] Read [GitExtensions tutorial](https://www.cnblogs.com/ningboliuwei/p/6606279.html)
 - [ ] Commit your changes of `rps.py`
