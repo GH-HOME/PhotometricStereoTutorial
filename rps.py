@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Robust Photometric Stereo in Python
-"""
-__author__ = "Yasuyuki Matsushita <yasumat@ist.osaka-u.ac.jp>"
-__version__ = "0.1.0"
-__date__ = "11 May 2018"
 
 import psutil
 import numpy as np
@@ -106,6 +100,14 @@ class PS(object):
         #############################################
 
         # Please write your code here to solve the surface normal N
+
+        # Step 1: solve Ax = b
+        # Hint: You can use np.linalg.lstsq(A, b) to solve Ax = b
+
+        # self.N = ???
+
+        # Step 2: We need to normalize the normal vectors as the norm of the normal vectors should be 1
+        # Hint: You can use function normalize from sklearn.preprocessing
 
         # self.N = ???
 

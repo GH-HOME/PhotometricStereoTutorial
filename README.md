@@ -21,7 +21,7 @@ You might need the following Python packages installed:
 
 ### Task A: Photometric Stereo Algorithm
 - [ ] Read tutorial PDF of Photometric Stereo 
-- [ ] Complete the code in `rps.py` Line 116 - 122
+- [ ] Complete the code in `rps.py` from Line 106 
 - [ ] run `python demo.py` and check the mean angular error value
 - [ ] Send the value of mean angular error to [guoheng.bupt@gmail.com](guoheng.bupt@gmail.com)
 
