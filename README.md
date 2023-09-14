@@ -25,12 +25,13 @@ You might need the following Python packages installed:
 - [ ] run `python demo.py` and check the mean angular error value
 - [ ] Send the value of mean angular error to [guoheng.bupt@gmail.com](guoheng.bupt@gmail.com)
 
-### Task B: 
+### Task B: Git and GitHub
 - [ ] Read [GitExtensions tutorial](https://www.cnblogs.com/ningboliuwei/p/6606279.html)
 - [ ] Commit your changes of `rps.py`
 - [ ] Push this project to your own GitHub repository
 - [ ] Send the link of your repository to [guoheng.bupt@gmail.com](guoheng.bupt@gmail.com)
 
+PS: You can use other git tool to push your code to GitHub, but you need to make sure to send the repository link to me. 
 
 ### References
 
