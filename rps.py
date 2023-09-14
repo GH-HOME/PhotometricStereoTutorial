@@ -99,7 +99,7 @@ class PS(object):
 
         #############################################
 
-        # Please write your code here to solve the surface normal N
+        # Please write your code here to solve the surface normal N whose size is (p, 3) as discussed in the tutorial
 
         # Step 1: solve Ax = b
         # Hint: You can use np.linalg.lstsq(A, b) to solve Ax = b
