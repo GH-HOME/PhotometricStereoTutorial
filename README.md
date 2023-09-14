@@ -6,7 +6,7 @@ written by Heng Guo (heng.guo@ist.osaka-u.ac.jp)
 
 Photometric Stereo is an approach to determining surface normal of 
 a scene from a set of images recorded from a fixed viewpoint but under
-varying lighting conditions, originally proposed by Woodham [1].
+varying lighting conditions.
 <p align="center">
 <img src="./lambert_noshadow.gif" width="256">
 </p>
@@ -39,9 +39,6 @@ PS: Key solution is the least square in Page 14 of the tutorial PDF. If your cod
 PS: You can use other git tool to push your code to GitHub, but you need to make sure to send the repository link to me. 
 
 ### References
-
-- Woodham, R.J. Photometric method for determining surface orientation from multiple images. 
-Optical Engineerings 19, I, 139-144, 1980
 -  [Video1](https://www.youtube.com/watch?v=mw43A8Y6Nlg&t=90s)
 -  [Video2](https://www.youtube.com/watch?v=dNkMLqBUNKI)
 
